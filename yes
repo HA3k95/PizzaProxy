@@ -1,1 +1,0 @@
-root@corrosion:~$ openssl req -nodes -new -x509 -keyout ssl.key -out ssl.cert
